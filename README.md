@@ -5,6 +5,9 @@
 
 <div style="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
