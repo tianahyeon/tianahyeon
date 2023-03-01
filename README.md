@@ -1,16 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taehyeon's%20GitHub%20Profile&fontSize=65&animation=fadeIn" />
 
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
-<h3 align="center"> Techs that I've used at least once </h3>
+<h3 align="center"> used as the main </h3>
 
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
 </p>
   
