@@ -30,10 +30,5 @@
 <br>
 <h3 align="center"> 💌 Email 💌 </h3>
 <p align="center">
-  <a href="mailto:xogus1484@naver.com">xogus1484@naver.com</a>
+  <small><a href="mailto:xogus1484@naver.com">xogus1484@naver.com</a></small>
   
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyeri&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohyeri&count_bg=%239E9E9E&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
