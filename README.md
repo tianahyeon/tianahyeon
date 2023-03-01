@@ -28,7 +28,7 @@
 </p>
   
 <br>
-<h3 align="center"> 💌 Email 💌 </h3>
+<h4 align="center"> 💌 Email 💌 </h4>
 <p align="center">
   <small><a href="mailto:xogus1484@naver.com">xogus1484@naver.com</a></small>
   
