@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taehyeon's%20GitHub%20Profile&fontSize=65&animation=fadeIn" />
 
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
-<h3 align="center"> used as the main </h3>
+<h3 align="center"> used at least once </h3>
 
-<div style="center">
+<div style="text-align:center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL%20IDE&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
