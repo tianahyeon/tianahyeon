@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taehyeon's%20GitHub%20Profile&fontSize=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taehyeon's%20GitHub%20Profile&fontSize=65&animation=fadeIn" />
 
 <h4 align="center"> 제 공간에 와주셔서 감사합니다. <br/>
 백엔드 개발자를 꿈꾸는 하태현입니다. <br/><br/>
