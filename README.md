@@ -3,7 +3,7 @@
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
 <h3 align="center"> used as the main </h3>
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
