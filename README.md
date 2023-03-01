@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Taehyeon's%20GitHub%20Profile&fontSize=65&animation=fadeIn" />
 
-🛠 Tech Stack 🛠
-Techs that I've used at least once
+<h3 align="center"> 🛠 Tech Stack 🛠</h3>
+<h3 align="center"> Techs that I've used at least once </h3>
 
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>&nbsp
