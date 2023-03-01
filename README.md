@@ -8,7 +8,7 @@
 
 <br/>
 <h4 align="center"> 👉💻 Tech Stack  </h4>
-<h4 align="center"> used at least once </h4>
+<h4 align="center"> used at least once or more than once </h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL%20IDE&logoColor=white"/>
