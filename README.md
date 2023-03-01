@@ -7,7 +7,7 @@
 </h4>
 
 <br/>
-<h4 align="center">  Tech Stack 💻 </h4>
+<h4 align="center"> 👉 Tech Stack  </h4>
 <h4 align="center"> used at least once </h4>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </p>
   
 <br>
-<h4 align="center">  Email 💌 </h4>
+<h4 align="center">  Email  </h4>
 <p align="center">
   <small><a href="mailto:xogus1484@naver.com">xogus1484@naver.com</a></small>
   
